@@ -1,0 +1,2 @@
+config SHIELD_WILLIAM
+    def_bool $(shields_list_contains, william)

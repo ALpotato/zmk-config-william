@@ -1,0 +1,6 @@
+if SHIELD_WILLIAM
+
+config ZMK_KEYBOARD_NAME
+    default "wiliam"
+
+endif
